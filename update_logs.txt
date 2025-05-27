@@ -1,8 +1,4 @@
 -
--
--
--
--
 Added Quran playback feature
 Added Iqamah feature
 Added loading screen
