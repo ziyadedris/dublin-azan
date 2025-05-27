@@ -1,2 +1,4 @@
-Isha joined with Maghrib
+Added Quran playback feature
+Added Iqamah feature
+Added loading screen
 
