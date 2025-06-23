@@ -1,2 +1,4 @@
-Fixed quran bug
+Fixed Quran bug
+Fixed Adhan bug
+Improved Quran UI
 
