@@ -1,4 +1,2 @@
-Fixed Quran bug
-Fixed Adhan bug
-Improved Quran UI
+Removed joining isha
 
