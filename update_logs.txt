@@ -1,2 +1,4 @@
-Daylight savings fix
+Added white days fasting reminder
+Added beep before fajr by 2 minutes
+Added new azan
 
