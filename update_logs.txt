@@ -1,3 +1,4 @@
 Added brightness control
 Added online radio
+Fixed settings bug
 
