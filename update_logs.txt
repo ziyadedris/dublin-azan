@@ -1,4 +1,3 @@
-Added white days fasting reminder
-Added beep before fajr by 2 minutes
-Added new azan
+Added brightness control
+Added online radio
 
