@@ -1,4 +1,2 @@
-Added brightness control
-Added online radio
-Fixed settings bug
+Added automatic night dimming
 
