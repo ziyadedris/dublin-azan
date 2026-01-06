@@ -1,2 +1,2 @@
-Added automatic night dimming
+Adjusted hurum months highlight
 
