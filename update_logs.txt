@@ -1,2 +1,3 @@
-Fixed ICCI prayer times
+Adjusted max speaker volume
+Fixed hijri date issue
 
