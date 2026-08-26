@@ -1,2 +1,2 @@
-ifi_joining_isha: true
+ifi_joining_isha: false
 icci_joining_isha: false
